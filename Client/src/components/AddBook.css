@@ -1,0 +1,36 @@
+.add-book-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .add-book-title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .add-book-input {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    font-size: 1em;
+  }
+  
+  .add-book-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #a1599b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-book-button:hover {
+    background-color: #0056b3;
+  }
+  
